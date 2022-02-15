@@ -7,6 +7,7 @@ The Username
 The Operating System name
 Your IPv4 address
 Stuff about your Proccessor (CPU)
+and other stuff.
 
 Batch files (.bat files) are used a lot to make 
 trouble on a computer. These files are used to make 
