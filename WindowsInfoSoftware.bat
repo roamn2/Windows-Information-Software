@@ -10,31 +10,31 @@ echo       PRESS A KEY TO START COLLECTING INFORMATIONS ABOUT YOUR WINDOWS COMPU
 pause>nul
 cls
 echo COLLECTING INFORMATIONS.
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS..
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS...
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS.
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS..
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS...
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS.
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS..
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo COLLECTING INFORMATIONS...
-ping 2 0.0.0.0 >nul
+ping -n 2 0.0.0.0 >nul
 cls
 echo.
 echo Username: %username%
