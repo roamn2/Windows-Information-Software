@@ -9,7 +9,7 @@ Your IPv4 address
 Stuff about your Proccessor (CPU)
 
 Batch files (.bat files) are used a lot to make 
-troubble on a computer. These files are used to make 
+trouble on a computer. These files are used to make 
 viruses, malware, etc. But this one is not dangerous 
 at all. It will not make any changes to your Computer.
 
